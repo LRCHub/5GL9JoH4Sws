@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Work from Home (Official Video)",
+  "base_artist": "Fifth Harmony",
+  "createdAt": "2025-12-06T11:22:07.997692Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Work from Home",
+      "artist": "Fifth Harmony feat. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/01_Work_from_Home_Fifth_Harmony_feat._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Work From Home (Feat. Ty Dolla $ign)",
+      "artist": "Fifth Harmony",
+      "has_synced": true,
+      "path": "select/02_Work_From_Home_(Feat._Ty_Dolla_$ign)_Fifth_Harmony.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Work From Home",
+      "artist": "Fifth Harmony feat. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/03_Work_From_Home_Fifth_Harmony_feat._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Work from Home (feat. Ty Dolla $ign)",
+      "artist": "Fifth Harmony, Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/04_Work_from_Home_(feat._Ty_Dolla_$ign)_Fifth_Harmony,_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Work From Home (Mixed)",
+      "artist": "Fifth Harmony",
+      "has_synced": true,
+      "path": "select/05_Work_From_Home_(Mixed)_Fifth_Harmony.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Work from Home",
+      "artist": "Fifth Harmony",
+      "has_synced": true,
+      "path": "select/06_Work_from_Home_Fifth_Harmony.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Work From Home",
+      "artist": "Fifth Harmony featuring Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/07_Work_From_Home_Fifth_Harmony_featuring_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Work from Home",
+      "artist": "Natalie Gang",
+      "has_synced": true,
+      "path": "select/08_Work_from_Home_Natalie_Gang.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Work From Home",
+      "artist": "Fifth Harmony ft. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/09_Work_From_Home_Fifth_Harmony_ft._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Work From Home",
+      "artist": "Fifth Harmony Ft. Ty Dolla Sign",
+      "has_synced": true,
+      "path": "select/10_Work_From_Home_Fifth_Harmony_Ft._Ty_Dolla_Sign.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Work From Home (Feat. Ty Dolla $ign)",
+      "artist": "Fifth Harmony",
+      "has_synced": true,
+      "path": "select/11_Work_From_Home_(Feat._Ty_Dolla_$ign)_Fifth_Harmony.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Work From Home",
+      "artist": "Fifth Harmony feat. Ty Dolla $Ign",
+      "has_synced": true,
+      "path": "select/12_Work_From_Home_Fifth_Harmony_feat._Ty_Dolla_$Ign.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Work From Home",
+      "artist": "Fifth Harmony; Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/13_Work_From_Home_Fifth_Harmony;_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Work From Home",
+      "artist": "Fi\\Harmony\\Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/14_Work_From_Home_Fi_Harmony_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Work from Home (feat. Ty Dolla $ign)",
+      "artist": "Fifth Harmony",
+      "has_synced": true,
+      "path": "select/15_Work_from_Home_(feat._Ty_Dolla_$ign)_Fifth_Harmony.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Work From Home",
+      "artist": "Fifth Harmony feat. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/16_Work_From_Home_Fifth_Harmony_feat._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Work From Home",
+      "artist": "Fifth Harmony",
+      "has_synced": true,
+      "path": "select/17_Work_From_Home_Fifth_Harmony.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Work from Home",
+      "artist": "Fifth Harmony",
+      "has_synced": false,
+      "path": "select/pl_01_Work_from_Home_Fifth_Harmony.txt"
+    }
+  ]
+}
