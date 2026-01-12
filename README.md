@@ -1,88 +1,102 @@
-# Fifth Harmony – Work from Home (Official Video)
+# Fifth Harmony – ワーク・フロム・ホーム（feat. Ty Dolla $ign）
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:09.39] I ain't worried 'bout nothin'
-[00:11.65] I ain't wearin' na-nada
-[00:14.08] I'm sittin' pretty, impatient
-[00:16.80] But I know you gotta
-[00:26.80] 
-[00:18.95] Put in them hours
-[00:21.04] I'ma make it harder
-[00:23.64] I'm sendin' pic' after picture
-[00:25.24] I'ma get you fired
-[00:34.24] 
-[00:28.14] I know you're always on that night shift
-[00:32.18] But I can't stand these nights alone
-[00:36.74] And I don't need no explanation
-[00:41.21] 'Cause, baby, you're the boss at home
-[00:59.71] 
-[00:44.87] You don't gotta go to work
-[00:47.52] Work, work, work, work, work, work
-[00:51.02] But you gotta put in work
-[00:53.34] Work, work, work, work, work, work
-[00:55.66] You don't gotta go to work
-[00:57.37] Work, work, work, work, work, work
-[00:59.09] Let my body do the work
-[01:02.78] Work, work, work, work, work, work
-[01:19.78] 
-[01:05.23] We can work from home, oh-oh, oh-oh
-[01:08.83] We can work from home, oh-oh, oh-oh
-[01:26.33] 
-[01:13.28] Let's put it into motion
-[01:16.38] I'ma give you a promotion
-[01:18.50] I'll make it feel like a vacay
-[01:20.80] Turn the bed into an ocean
-[01:33.80] 
-[01:23.06] We don't need nobody
-[01:25.53] I just need your body
-[01:27.46] Nothin' but sheets in between us
-[01:30.12] Ain't no gettin' off early
-[01:43.12] 
-[01:32.55] I know you're always on that night shift
-[01:36.75] But I can't stand these nights alone (oh)
-[01:42.18] And I don't need no explanation
-[01:45.77] 'Cause, baby, you're the boss at home (yeah, yeah)
-[02:10.77] 
-[01:50.06] You don't gotta go to work
-[01:51.67] Work, work, work, work, work, work
-[01:55.06] But you gotta put in work
-[01:56.22] Work, work, work, work, work, work
-[01:59.41] You don't gotta go to work
-[02:00.95] Work, work, work, work, work, work
-[02:03.54] Let my body do the work
-[02:05.48] Work, work, work, work, work, work
-[02:22.48] 
-[02:08.75] We can work from home, oh-oh, oh-oh
-[02:13.09] We can work from home, oh-oh, oh-oh
-[02:30.59] 
-[02:17.02] Oh, yeah, girl go to work for me (work for me)
-[02:21.48] Can you make it clap, no hands for me? (Ooh, yeah)
-[02:24.33] Take it to the ground, pick it up for me (uh, ayy)
-[02:26.68] Look back at it all over me (oh, yeah)
-[02:28.26] Put in work like my timesheet (oh)
-[02:30.64] She ride it like a '63 (oh-whoa)
-[02:32.97] I'ma buy her new Céline (oh)
-[02:35.27] Let her ride in a foreign with me
-[02:37.55] Oh, she the bae, I'm her boo
-[02:39.97] And she down to break the rules
-[02:43.56] Ride or die, she gon' go
-[02:45.75] I'm gon' juug, she finessin'
-[02:48.46] I pipe her, she take that
-[02:50.22] Put in overtime on your body
-[03:04.22] 
-[02:54.09] You ain't gotta go to work, no
-[02:56.43] Work, work, work, work, work, work
-[02:58.45] But you gotta put in work (oh)
-[03:00.44] Work, work, work, work, work, work (ooh, yeah)
-[03:02.88] You don't gotta go to work
-[03:05.23] Work, work, work, work, work, work
-[03:07.12] Let my body do the work (do work)
-[03:09.14] Work, work, work, work, work, work (do work, yeah, yeah)
-[03:37.14] 
-[03:12.00] We can work from home, oh-oh, oh-oh
-[03:16.18] We can work from home, oh-oh, oh-oh
-[03:20.77] Yeah, we can work from home, oh-oh, oh-oh
-[03:25.12] Yeah, we can work from home, oh-oh, oh-oh, yeah
+```
+I ain't worried 'bout nothin'
+I ain't wearin' na nada
+I'm sittin' pretty, impatient,
+but I know you gotta
+Put in them hours, I'mma make it
+harder
+I'm sending pic after picture,
+I'mma get you fired
+I know you're always on the
+night shift
+But I can't stand these nights
+alone
+And I don't need no explanation
+'Cause baby, you're the boss at
+home
+You don't gotta go to work,
+work, work, work, work, work,
+work
+But you gotta put in work, work,
+work, work, work, work, work
+You don't gotta go to work,
+work, work, work, work, work,
+work
+Let my body do the work, work,
+work, work, work, work, work,
+work
+We can work from home, oh, oh,
+oh-oh
+We can work from home, oh, oh,
+oh-oh
+Let's put it into motion
+I'mma give you a promotion
+I'll make it feel like a vacay,
+turn the bed into an ocean
+We don't need nobody, I just
+need your body
+Nothin' but sheets in between
+us, ain't no getting off early
+I know you're always on the
+night shift
+But I can't stand these nights
+alone
+And I don't need no explanation
+'Cause baby, you're the boss at
+home
+You don't gotta go to work,
+work, work, work, work, work,
+work
+But you gotta put in work, work,
+work, work, work, work, work
+You don't gotta go to work,
+work, work, work, work, work,
+work
+Let my body do the work, work,
+work, work, work, work, work,
+work
+We can work from home, oh, oh,
+oh-oh
+We can work from home, oh, oh,
+oh-oh
+[Ty Dolla $ign:]
+Girl, go to work for me
+Can you make it clap, no hands
+for me?
+Take it to the ground, pick it
+up for me
+Look back at it all over me
+Put in work like my timesheet
+She ride it like a '63
+I'mma buy her no Celine
+Let her ride in a foreign with
+me
+Oh, she the bae, I'm her boo
+And she down to break the rules
+Ride or die, she gon' go
+I won't judge, she finesse
+I pipe up, she take that
+Putting overtime on your body
+You don't gotta go to work,
+work, work, work, work, work,
+work
+But you gotta put in work, work,
+work, work, work, work, work
+You don't gotta go to work,
+work, work, work, work, work,
+work
+Let my body do the work, work,
+work, work, work, work, work,
+work
+We can work from home, oh, oh,
+oh-oh
+We can work from home, oh, oh,
+oh-oh
+Yeah, we can work from home
+Yeah, we can work from home
+Yeah
 ```
